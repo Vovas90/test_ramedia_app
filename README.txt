@@ -28,4 +28,6 @@
 - Future/async/await
 - WebView
 - Lottie Animations
+- Shared Preferences
 - file_picker
+- cookie_jar
